@@ -61,7 +61,6 @@ python MiniGPT-4-main/src/evaluate.py --config MiniGPT-4-main/configs/eval_confi
 ### Acknowledgements
 ## MiniGPT-4: The base model used for fine-tuning.
 ## Label Studio: Tool used for building and labeling the RefCOCO dataset.
-## RefCOCO Dataset: The dataset used for training and evaluation.
 
 
 ### Contributing
