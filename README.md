@@ -49,6 +49,7 @@ Ensure that the RefCOCO dataset is placed in the `Cardioscope_dataset/` director
 To fine-tune MiniGPT-4 on the custom dataset, run the training script:
 ```bash
 python MiniGPT-4-main/src/train.py --config MiniGPT-4-main/configs/train_config.yaml
+```
 
 
 ### Evaluation
